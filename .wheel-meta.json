@@ -1,0 +1,22 @@
+{
+  "wheel_id": 767,
+  "structure": "umbrella",
+  "slug": "renovationsydney-109",
+  "project": "home-renovations-sydney-checklist-4c018b79dd78fd58ed4913651709a",
+  "parent_t1_ref": "renovationsydney-154",
+  "node_role": "feeder",
+  "money_target": "renovationsydney.com.au",
+  "primary_kw": "home renovations sydney checklist",
+  "intended_url": "https://aumedia.neocities.org/home-renovations-sydney-checklist-4c018b79dd78fd58ed4913651709a/",
+  "tier": "T2",
+  "writeback_nonce": "572cda0ad1e7ace2",
+  "links": [
+    {
+      "target_url": "http://home-renovations-sydney-common-mistakes-b07d3f7a9885e53e91ea4d3.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "this overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
